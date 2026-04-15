@@ -51,19 +51,3 @@ To fetch students via CLI:
 
 stellar contract invoke --id [YOUR_CONTRACT_ID] --source-account brama --network testnet -- get_students
 
-
-Push to GitHub
-
-Follow these steps to push to your repository:
-
-git init
-
-git add .
-
-git commit -m "Initial dAPP Project: Data Science Registry"
-
-git branch -M main
-
-git remote add origin https://github.com/FtBdra/Project-dAPP
-
-git push -u origin main
